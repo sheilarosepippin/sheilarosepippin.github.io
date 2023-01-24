@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
-category: documentation
-permalink: /documentation
+title: Recent Work
+category: recent
+permalink: /recent
 ---
