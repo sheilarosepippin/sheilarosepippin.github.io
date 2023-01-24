@@ -14,7 +14,7 @@ GPA: 3.8, Dean's List
 ## Experience
 **Editorial Intern**, Flaunt Magazine
 *Los Angeles, CA*
-June 2022 – August 2022
+May 2022 – September 2022
 > * Writing articles on fashion, makeup, culture, and film
 > * Conducting and transcribing interviews
 > * Working under strict and short deadlines.
