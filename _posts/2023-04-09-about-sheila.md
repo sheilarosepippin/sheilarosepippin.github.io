@@ -2,7 +2,7 @@
 layout: post
 title: "All About Me"
 author: "Sheila Pippin"
-categories: About
+categories: about
 image: sheila-author.jpeg
 ---
 
